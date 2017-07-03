@@ -1,0 +1,17 @@
+{
+  "name": "december-wrapper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "Harsh Vakharia <harshjv@gmail.com> (https://harshjv.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  }
+}
